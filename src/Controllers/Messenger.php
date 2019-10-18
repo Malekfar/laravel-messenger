@@ -12,6 +12,7 @@ use Illuminate\Support\Facades\DB;
 
 Class Messenger extends Controller
 {
+    private $url;
     private function init()
     {
         if (!$this->url)

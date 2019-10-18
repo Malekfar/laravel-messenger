@@ -20,5 +20,5 @@ return [
     'threads_table' => null,
 	
 	
-    'url' => "http://192.168.10.10:3005"
+    'url' => "http://192.168.10.10:3005",
 ];

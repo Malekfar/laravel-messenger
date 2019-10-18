@@ -18,4 +18,7 @@ return [
     'participants_table' => null,
 
     'threads_table' => null,
+	
+	
+    'url' => "http://192.168.10.10:3005"
 ];
